@@ -5,3 +5,7 @@ Name=str(input("Enter your name: "))
 print("Student details:\n")
 print("Name:",Name)
 print("USN:",USN)
+
+#to print your college name
+Clg=str(input("Enter name of your college: "))
+print("College Name: ",Clg)
