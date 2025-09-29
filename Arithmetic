@@ -1,0 +1,7 @@
+#to print student details
+
+USN=int(input("Enter your USN: "))
+Name=chr(input("Enter your name: "))
+print("Student details:\n")
+print("Name:{Name}")
+print("USN:{USN}")
